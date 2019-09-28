@@ -1,0 +1,30 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>NumBoids</Name>
+    <Value>600.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Separate</Name>
+    <Value>135.222671509</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Align</Name>
+    <Value>163.562744141</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Cohesion</Name>
+    <Value>383.805664062</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>MaxForce</Name>
+    <Value>0.399352252</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>MaxSpeed</Name>
+    <Value>26.263156891</Value>
+</Widget>

@@ -1,0 +1,29 @@
+# Mac
+*.app
+Project.xcconfig
+*.xcodeproj/
+config.make
+*.plist
+Makefile
+
+#Win
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+icon.aps
+icon.rc
+obj/*
+*.vs
+*.VC.db
+*.VC.opendb
+*.dll
+*.exe
+*.exp
+*.lib
+*.ilk
+*.pdb
+
+# bin
+bin/data/GUI/guiSettings.xml
